@@ -163,6 +163,8 @@ Zoom H1 — 6k
 - [How to add Your Podcast to iTunes](https://medium.com/@bagdis/how-to-add-your-podcast-to-itunes-f3bbf2f70789)
 - [RSS Full example](http://podcast411.com/howto_1.html)
 - [Apple podcast best-practices](https://help.apple.com/itc/podcasts_connect/#/itc2b3780e76)
+- [RSS tags for Podcasts Connect](https://help.apple.com/itc/podcasts_connect/#/itcb54353390)
+- [Podcasts Connect categories](https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12)
 - [Formatting rss](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
 - [Podcasts Dashboard](https://podcastsconnect.apple.com/my-podcasts)
 - [pod rss examples](http://www.feedforall.com/macdocs/html/podcastdocumentation.html)
