@@ -50,7 +50,7 @@ function (a) {
 ```js
 get('key', 42)
 get('key') || 42
-maybe(get('key'), 42) // stupid lazy maybe = (val, def) => val == null ? val : def
+either(get('key'), 42) // stupid either = (val, def) => val == null ? val : def
 ```
 ----
 
