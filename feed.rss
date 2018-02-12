@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  <channel>
+
+    <title>invpod</title>
+    <description>Pilot podcast about programming, frontend, js, react, fp and related themes. Запинаюсь, ааакаю, иногда говорю бред. Хочу, после того как раскачаюсь, занять нишу frontend-подкастов о js с увеличенным градусом хардкора.</description>
+    <link>http://invntrm.ru</link>
+    <language>ru-ru</language>
+    <copyright>CC</copyright>
+    <lastBuildDate>Mon, 12 Feb 2018 02:10:00 -0300</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2018 02:10:00 -0300</pubDate>
+    <docs>http://invntrm.ru/invpod/feed.rss</docs>
+    <webMaster>invntrm@gmail.com</webMaster>
+
+    <itunes:author>Alex Mextner @ invpod</itunes:author>
+    <itunes:subtitle>Pilot podcast about programming, frontend, js, react, fp and related themes. Запинаюсь, ааакаю, иногда говорю бред. 
+Хочу, после того как раскачаюсь, занять нишу frontend-подкастов о js с увеличенным градусом хардкора</itunes:subtitle>
+    <itunes:summary><![CDATA[
+	Если через 10 выпусков я ещё здесь, то вот о чём мы может быть будем говорить:
+	— React/Redux-кейсы как в пятиминутке но чаще.
+	— Новости из блогов на медиум, твиттера, телеграми, alistapart.com, 2ality.com
+	— Старые хорошие актуальные статьи не затронутые в других подкастах
+	— Главы из книг вроде Чистого кода
+	— читаем mdn, спеки интересное со stackoverflow
+	— обсуждение докладов с конференций
+	— разбираем код опен-сорс библиотек
+	— ux: кейсы, статьи
+	— white papers
+	— полезная на практике фронтендера теория из дискретки и computer science вообще
+	— v8/jit, react, webpack/babel underhoods
+	— react ландшафт (must-have библиотеки)
+	— решения и best-practices
+	— полезняшки (софт, хаки, утилиты, шорт-каты, скрипты)
+	— devops
+	— управление проектами
+	— функциональное программирование во фронте и вообще
+	— спец-выпуски: обучаем Свету программированию, обучаем меня хаскелу, загоняем упоротые темы про электронное правительство, утопии/антиутопии и странные идеи, предвосхищающие чёрное зеркало.
+    ]]></itunes:summary>
+
+    <itunes:owner>
+           <itunes:name>Alex Mextner</itunes:name>
+           <itunes:email>invntrm@gmail.com</itunes:email>
+    </itunes:owner>
+
+<itunes:explicit>No</itunes:explicit>
+
+<itunes:image href="http://invntrm.ru/invpod/invpod-logo.png"/>
+    
+<itunes:category text="Technology">
+     <itunes:category text="Podcasting"/>
+</itunes:category>
+
+<item>
+	<title>#1 pilot — функциональное программирование</title>
+	<link>https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md</link>
+	<guid>https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md</guid>
+	<description>Поговорим базово про ФП https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md</description>
+	<enclosure url="http://invntrm.ru/invpod/pilot-1-fp.m4a" length="13579724" type="audio/x-m4a"/>
+	<category>Podcasts</category>
+	<pubDate>Mon, 12 Feb 2018 02:10:00 -0300</pubDate>
+
+	<itunes:author>Alex Mextner @ invpod</itunes:author>
+
+	<itunes:explicit>No</itunes:explicit>
+	<itunes:subtitle>Поговорим базово про ФП https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md background music: http://freemusicarchive.org/music/Scott_Holmes/Corporate__Motivational_Music/Big_Apple_1379</itunes:subtitle>
+	<itunes:summary>summary</itunes:summary>
+	<itunes:duration></itunes:duration>
+	<itunes:keywords>invntrm, mxtnr, mextner, frontend, fp, functional programming, programming</itunes:keywords>
+
+</item>
+
+</channel>
+
+</rss>
