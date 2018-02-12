@@ -15,7 +15,7 @@
 - скайп только для синхронизации, у всех свои дорожки
 - ГаражБэнд, Лоджик
 - Компрессия, проверка в метро, меньше диапазон, громче
-- mp3 / mono / 64k bitrate
+- mp3 (why not aac/m4a?) / mono / 64k bitrate
 
 - переходы между темами, рубрики, структура изложения
 - большой и малый чаты, онлайн
@@ -62,25 +62,25 @@ Pilot podcast about programming, frontend, js, react, fp and related themes. З�
 
 Если через 10 выпусков я ещё здесь, то вот о чём мы может быть будем говорить:
 
-— React/Redux-кейсы как в пятиминутке но чаще.
-— Новости из блогов на медиум, твиттера, телеграми, alistapart.com, 2ality.com
-— Старые хорошие актуальные статьи не затронутые в других подкастах
-— Главы из книг вроде Чистого кода
-— читаем mdn, спеки интересное со stackoverflow
-— обсуждение докладов с конференций
-— разбираем код опен-сорс библиотек
-— ux: кейсы, статьи
+- React/Redux-кейсы как в пятиминутке но чаще.
+- Новости из блогов на медиум, твиттера, телеграми, alistapart.com, 2ality.com
+- Старые хорошие актуальные статьи не затронутые в других подкастах
+- Главы из книг вроде Чистого кода
+- читаем mdn, спеки интересное со stackoverflow
+- обсуждение докладов с конференций
+- разбираем код опен-сорс библиотек
+- ux: кейсы, статьи
 	- Is Interactive: отличать автоматические и вызванные пользователем действия. Event#isTrusted
-— white papers
-— полезная на практике фронтендера теория из дискретки и computer science вообще
-— v8/jit, react, webpack/babel underhoods
-— react ландшафт (must-have библиотеки)
+- white papers
+- полезная на практике фронтендера теория из дискретки и computer science вообще
+- v8/jit, react, webpack/babel underhoods
+- react ландшафт (must-have библиотеки)
 - сложный выбор: сравниваем библиотеки 
-— решения и best-practices
-— полезняшки (софт, хаки, утилиты, шорт-каты, скрипты)
-— devops
-— управление проектами
-— функциональное программирование во фронте и вообще
+- решения и best-practices
+- полезняшки (софт, хаки, утилиты, шорт-каты, скрипты)
+- devops
+- управление проектами
+- функциональное программирование во фронте и вообще
 
 Приглашаем экспертов по каждой обсуждаемой теме 
 
@@ -156,32 +156,20 @@ Zoom H5 — 15k
 Zoom H1 — 6k
 
 ### заливка
-https://podcastsconnect.apple.com/my-podcasts/new-feed
-
+- https://podcastsconnect.apple.com/my-podcasts/new-feed
 [форматирование rss](https://create.blubrry.com/manual/syndicating-your-podcast-rss-feeds/submit-podcast-itunes/new-settings-ios-11)
-
-[rss validator](https://podba.se/validate/)
-[good rss validator](http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Finvntrm.ru%2Finvpod%2Ffeed.rss)
-
-[How to add Your Podcast to iTunes](https://medium.com/@bagdis/how-to-add-your-podcast-to-itunes-f3bbf2f70789)
-
-[RSS Full example](http://podcast411.com/howto_1.html)
-
-[Apple podcast best-practices](https://help.apple.com/itc/podcasts_connect/#/itc2b3780e76)
-
-[Formatting rss](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
-
-[Podcasts Dashboard](https://podcastsconnect.apple.com/my-podcasts)
-
-[pod rss examples](http://www.feedforall.com/macdocs/html/podcastdocumentation.html)
-
-[How To Use RssBuilder](https://www.wikihow.com/Create-an-RSS-Feed)
-
-**FeedBurner** — рекомендации лучших умпутунов
-
-[автоматизация, есть бесплатный план](https://www.spreaker.com/plans)
-
-[куда выкладывать, apple partners](https://itunespartner.apple.com/en/podcasts/partnersearch)
+- [rss validator](https://podba.se/validate/)
+- [good rss validator](http://validator.w3.org/feed/check.cgi?url=http%3A%2F%2Finvntrm.ru%2Finvpod%2Ffeed.rss)
+- [How to add Your Podcast to iTunes](https://medium.com/@bagdis/how-to-add-your-podcast-to-itunes-f3bbf2f70789)
+- [RSS Full example](http://podcast411.com/howto_1.html)
+- [Apple podcast best-practices](https://help.apple.com/itc/podcasts_connect/#/itc2b3780e76)
+- [Formatting rss](https://help.apple.com/itc/podcasts_connect/#/itcbaf351599)
+- [Podcasts Dashboard](https://podcastsconnect.apple.com/my-podcasts)
+- [pod rss examples](http://www.feedforall.com/macdocs/html/podcastdocumentation.html)
+- [How To Use RssBuilder](https://www.wikihow.com/Create-an-RSS-Feed)
+- **FeedBurner** — рекомендации лучших умпутунов
+- [автоматизация, есть бесплатный план](https://www.spreaker.com/plans)
+- [куда выкладывать, apple partners](https://itunespartner.apple.com/en/podcasts/partnersearch)
 
 ### Content
 
