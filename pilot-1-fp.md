@@ -3,6 +3,7 @@
 - [Итак, вы хотите научиться функциональному программированию (серия статей)](https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-1-6ef98e90d58d)
 - [Введение в Immutable.js и основные концепции функционального программирования](https://medium.com/devschacht/sebastián-peyrott-introduction-to-immutablejs-and-functional-programming-concepts-b3a6555af0ee)
 - Haskell: функции, типы, классы типов (как интерфейсы)
+- [eax.me/why-haskell](https://eax.me/why-haskell/)
 - [eax.me/monads](http://eax.me/monads/)
 - [ruhaskell.org](https://ruhaskell.org)
 - [ohaskell.guide](https://ohaskell.guide/init.html)
