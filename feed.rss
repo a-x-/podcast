@@ -43,6 +43,7 @@
 
 <item>
 	<title>#1 pilot — функциональное программирование</title>
+	<itunes:title>pilot: функциональное программирование</title>
 	<link>https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md</link>
 	<guid>https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md</guid>
 	<description>Поговорим базово про ФП https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md</description>
@@ -52,9 +53,9 @@
 
 	<itunes:author>Alex Mextner</itunes:author>
 
-	<itunes:episode>1</itunes:episode>
 	<itunes:season>1</itunes:season>
-
+	<itunes:episode>1</itunes:episode>
+	<itunes:episodeType>bonus</itunes:episodeType>
 	<itunes:explicit>No</itunes:explicit>
 
 	<itunes:subtitle>
