@@ -62,13 +62,14 @@
 		https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md
 		background music: http://freemusicarchive.org/music/Scott_Holmes/Corporate__Motivational_Music/Big_Apple_1379
 	</itunes:subtitle>
+	<itunes:summary>Поговорим базово про ФП</itunes:summary>
 	<content:encoded><![CDATA[
-		Поговорим базово про ФП.
-		<a href="https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md">shownotes</a>,
-		<a href="http://freemusicarchive.org/music/Scott_Holmes/Corporate__Motivational_Music/Big_Apple_1379">background music</a>
+		<p>Поговорим базово про ФП
+		<p>
+			<a href="https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md">shownotes</a>,
+			<a href="http://freemusicarchive.org/music/Scott_Holmes/Corporate__Motivational_Music/Big_Apple_1379">background music</a>
+		</p>
 	]]></content:encoded>
-	<itunes:summary>Поговорим базово про ФП https://github.com/a-x-/podcast/blob/master/pilot-1-fp.md background music: http://freemusicarchive.org/mus
-ic/Scott_Holmes/Corporate__Motivational_Music/Big_Apple_1379</itunes:summary>
 	<itunes:duration>27:43</itunes:duration>
 	<itunes:keywords>invntrm, mxtnr, mextner, frontend, fp, functional programming, programming</itunes:keywords>
 
