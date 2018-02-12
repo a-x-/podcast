@@ -52,5 +52,8 @@ get('key', 42)
 get('key') || 42
 maybe(get('key'), 42) // stupid lazy maybe = (val, def) => val == null ? val : def
 ```
+----
 
-Спасибо Вове @tempname за ответы на вопросы.
+Спасибо Вове [@tempname11](https://github.com/tempname11) за ответы на вопросы.
+
+> Дьявол является начальником церкви, он является начальником секты дьявола. ~ [@neural_machine](https://twitter.com/neural_machine/status/962839388437778434)
