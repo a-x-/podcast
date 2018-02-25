@@ -18,7 +18,8 @@
 - null — reject — optional chaining
 - смешивание reject и throw и уровни ошибок
 - [Default parameters @ MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
-- богатство системы типов: множества как в математике
+- богатство системы типов: множества как в математике (не совсем)
+- [fp js концепции](https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56)
 
 **Figure 1.** falsy checks
 ```js
