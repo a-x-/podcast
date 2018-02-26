@@ -56,6 +56,8 @@ either(get('key'), 42) // stupid either = (val, def) => val == null ? val : def
 ```
 ----
 
-Спасибо Вове [@tempname11](https://github.com/tempname11) за ответы на вопросы.
+Спасибо Вове [@tempname11](https://github.com/tempname11) за ответы.
+
+Спасибо ему же за [замечания к выпуску](https://gist.github.com/tempname11/595be6b4627b8ca118709f1e1d75885b)
 
 > Дьявол является начальником церкви, он является начальником секты дьявола. ~ [@neural_machine](https://twitter.com/neural_machine/status/962839388437778434)
